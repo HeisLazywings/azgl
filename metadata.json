@@ -1,0 +1,6 @@
+{
+  "name": "AZG Corporate Group - Private Sales Demo",
+  "description": "Private corporate presentation and commercial demonstration for the AZG diversified group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
